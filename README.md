@@ -2,7 +2,7 @@
 
 Reuquirements:
 
--Arduino Uno
+-*Arduino Uno
 -GSM module(with sim card)
 -Pir sensor
 -mobile

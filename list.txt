@@ -1,0 +1,9 @@
+Required Components for this Project:
+
+1) Arduino Uno   
+2) GSM MODULE SIM800A or any other model (with Working Simcard supports 2G)
+3) PIR sensor
+4) connecting wires
+ you can buy these items from online stores like amazon etc
+
+arduino Code: https://github.com/NirmalKnock/Gsm-Home-Security-system

@@ -12,7 +12,7 @@ void loop()
   {
     Serial.println("OK");
     delay(20000);
-    Serial.println("ATD+YOUR NUMBER;");// change your number
+    Serial.println("ATD+YOUR NUMBER;");// change your number with country code like +91xxxxxxxxxx
     delay(150000);
     Serial.println("ATH");
     delay(1000);
